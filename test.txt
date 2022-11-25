@@ -1,2 +1,4 @@
-this is a test.
-my name is sarfaraz.
+git checkout -b login-code. //new branch create
+git checkout branch name //change branch
+touch login.php //create new file
+vim login.php //to write the code in login.php.
